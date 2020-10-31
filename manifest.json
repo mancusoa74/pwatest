@@ -4,7 +4,7 @@
   "short_name": "pwatest",
   "description": "!!!!!!!!!!!!Testinng pwa application for svelte and framework7",
   "lang": "it-IT",
-  "start_url": "/pwatest",
+  "start_url": "/",
   "scope": "/pwatest/",
   "display": "standalone",
   "background_color": "#00AA0A",
