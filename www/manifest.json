@@ -2,15 +2,14 @@
   "prefer_related_applications": false,
   "name": "pwatest",
   "short_name": "pwatest",
-  "description": "Testinng pwa application for svelte and framework7",
+  "description": "!!!!!!!!!!!!Testinng pwa application for svelte and framework7",
   "lang": "it-IT",
   "start_url": "/pwatest/www",
-  "scope": ".",
   "display": "standalone",
   "background_color": "#00AA0A",
   "theme_color": "#EE350F",
   "dir": "ltr",
-  "orientation": "portrait-primary",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "static/icons/128x128.png",
